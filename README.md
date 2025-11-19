@@ -1,4 +1,4 @@
-# Goodreads Data Engineering Practicum
+# Goodreads Data Engineering 
 
 ## Overview
 This lab performs a full data cleaning and feature engineering process on Goodreads review data, following the same logic as implemented in Microsoft Fabric.
